@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-"""This module provides a function for calculating the start and end indices
-for a given page and page size, using 1-indexing
+"""Pagination helper function.
 """
 from typing import Tuple
 
